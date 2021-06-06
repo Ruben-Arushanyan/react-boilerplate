@@ -1,6 +1,6 @@
 import {useLayoutEffect, useRef} from 'react'
 
-const useWindowScroll = (options) => {
+const useWindowScroll = (options={}) => {
     const {current: {x=0, y=0, atReload=false}} = useRef(options)
 
     useLayoutEffect(() => {

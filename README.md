@@ -1,4 +1,4 @@
-# React Boilerplate
+# React Boilerplate (go-to [BOILERPLATE.md](https://github.com/Examples-Of-Usage/react-boilerplate/blob/master/BOILERPLATE.md))
 
 ## Requirements
 *node >= 14 (stable version)*  
